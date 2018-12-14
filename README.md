@@ -1,0 +1,2 @@
+# KataPractise
+project Euler
