@@ -1,0 +1,22 @@
+{
+  "name": "katapractise",
+  "version": "1.0.0",
+  "description": "project Euler",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest watch-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lylafibert/KataPractise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lylafibert/KataPractise/issues"
+  },
+  "homepage": "https://github.com/lylafibert/KataPractise#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
