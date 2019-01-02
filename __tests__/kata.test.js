@@ -66,3 +66,10 @@ test("test if checkPrime works", () => {
     expect(kata.checkPrime(1)).toBe(false);
 
 });
+
+test("test fiveHFactors returns false correctly", () => {
+    expect(kata.fiveHFactors(5)).toBe(false);
+    expect(kata.fiveHFactors(400)).toBe(false);
+    expect(kata.fiveHFactors(367)).toBe(false);
+    expect(kata.fiveHFactors(999)).toBe(false);
+});
